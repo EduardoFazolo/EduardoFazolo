@@ -1,12 +1,12 @@
-### Eduardo Verona
+### Hi there 👋 I'm Eduardo
 
-Senior software engineer, remote from Curitiba, Brazil. Brazilian and Italian.
+### Senior Software Engineer
 
-I have been automating everything since before agents were a thing. Now I mostly automate the automation.
-
-I create my tools to make my job and workflows easier and better every day. Each tool here goes very well with the others, because that's the kind of engineer I am: breaking complex issues into smaller and powerful solutions.
-
-[efverona.com](https://efverona.com) · [@edfazolo](https://x.com/edfazolo)
+* 🤖 Applied AI and automation. I automate the automation now
+* 🧩 I break complex problems into smaller, powerful solutions
+* 🛠️ Every tool below is mine, and I use all of them every day
+* 🌎 Remote from Curitiba 🇧🇷 · Italian citizen 🇮🇹
+* 🔗 [efverona.com](https://efverona.com) · [@edfazolo](https://x.com/edfazolo)
 
 ### Tools I built, and use every day
 
