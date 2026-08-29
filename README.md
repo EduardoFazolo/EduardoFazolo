@@ -29,7 +29,9 @@ They are built to connect. Together they turn my Mac into a multi agent setup I 
 
 ### Day job
 
-Senior engineer at River, building [dnnr.io](https://www.dnnr.io). I own the AI side there: a chatbot on the Anthropic API with a secured tool layer, confirmation gates on anything that writes, and weekly audit jobs that read real conversations to find where it got things wrong.
+Senior engineer at River, building [dnnr.io](https://www.dnnr.io). I work with the operations and reservations teams and automate whatever slows them down, scaling throughput while driving cost per booking the other way.
+
+I pushed for our own AI chat and for the ElevenLabs voice agent that now handles calls, and I build the crawlers and browser automation underneath, using iframer to keep it tight against systems that give you no API.
 
 ### Stack
 
