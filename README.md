@@ -4,7 +4,7 @@ Senior software engineer, remote from Curitiba, Brazil. Brazilian and Italian.
 
 I have been automating everything since before agents were a thing. Now I mostly automate the automation.
 
-Most of what is here exists because a tool I wanted did not, or the one that did annoyed me. I use all of them every day.
+I create my tools to make my job and workflows easier and better every day. Each tool here goes very well with the others, because that's the kind of engineer I am: breaking complex issues into smaller and powerful solutions.
 
 [efverona.com](https://efverona.com) · [@edfazolo](https://x.com/edfazolo)
 
