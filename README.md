@@ -29,9 +29,9 @@ They are built to connect. Together they turn my Mac into a multi agent setup I 
 
 ### Day job
 
-Senior engineer at River, building [dnnr.io](https://www.dnnr.io). I work with the operations and reservations teams and automate whatever slows them down, scaling throughput while driving cost per booking the other way.
+Senior engineer at River, building [dnnr.io](https://www.dnnr.io). I work between applied AI and operations, replacing manual internal workflows with LLM agents and automation so the team scales volume without scaling headcount.
 
-I pushed for our own AI chat and for the ElevenLabs voice agent that now handles calls, and I build the crawlers and browser automation underneath, using iframer to keep it tight against systems that give you no API.
+I drove adoption of our in-house AI assistant and of a voice AI agent for outbound calls, and I own the web data extraction and browser automation behind them.
 
 ### Stack
 
