@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Eduardo
+### I'm Eduardo
 
-### Senior Software Engineer
+### Full Stack Software Engineer
 
 * 🤖 Applied AI and automation. I automate the automation now
 * 🧩 I break complex problems into smaller, powerful solutions
