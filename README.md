@@ -25,7 +25,7 @@ Small local memory for agents. Skills, documents, the things worth keeping.
 **[vaemon](https://github.com/EduardoFazolo/vaemon)**
 Cron daemon so my agents can wake themselves up later and carry on.
 
-They are built to connect. Together they turn my Mac into a multi agent setup I actually trust.
+They are built to connect. Together they turn my Mac into a multi agent setup I can actually trust, kind of like an OpenClaw or Hermes, but more personal and where I have more control.
 
 ### Day job
 
