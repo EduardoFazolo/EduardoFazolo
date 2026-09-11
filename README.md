@@ -3,7 +3,7 @@
 ### Full Stack Software Engineer
 
 * 🤖 Applied AI and automation. I automate the automation now
-* 🧩 I break complex problems into smaller, powerful solutions
+* 🧩 I break complex problems into smaller, dumber and simpler solutions
 * 🛠️ Every tool below is mine, and I use all of them every day
 * 🌎 Remote from Curitiba 🇧🇷 · Brazilian & Italian 🇮🇹
 * 🔗 [efverona.com](https://efverona.com) · [@edfazolo](https://x.com/edfazolo)
